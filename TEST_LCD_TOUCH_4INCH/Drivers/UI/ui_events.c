@@ -14,6 +14,10 @@ extern bool auto_mode_1;
 extern bool auto_mode_2;
 extern bool auto_mode_3;
 extern bool start_auto;
+extern int counter_mode1;
+extern int counter_mode2;
+extern int counter_mode3;
+
 void ControlJoint1Servo(lv_event_t * e)
 {
 	if(is_Auto_Running) {
@@ -84,5 +88,7 @@ void Mode3_ON(lv_event_t * e)
 
 void ResetCount(lv_event_t * e)
 {
-	// Your code here
+	counter_mode1 = 0;
+    counter_mode2 = 0;
+    counter_mode3 = 0;
 }

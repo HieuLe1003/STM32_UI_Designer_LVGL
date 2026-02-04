@@ -6,7 +6,7 @@ Drivers/lvgl/examples/widgets/roller/lv_example_roller_3.o: \
  ../Drivers/lvgl/examples/widgets/roller/../../../src/lv_init.h \
  ../Drivers/lvgl/examples/widgets/roller/../../../src/lv_conf_internal.h \
  ../Drivers/lvgl/examples/widgets/roller/../../../src/lv_conf_kconfig.h \
- C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
+ F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
  ../Drivers/lvgl/examples/widgets/roller/../../../src/misc/lv_types.h \
  ../Drivers/lvgl/examples/widgets/roller/../../../src/misc/../lv_conf_internal.h \
  ../Drivers/lvgl/examples/widgets/roller/../../../src/stdlib/lv_mem.h \
@@ -487,7 +487,7 @@ Drivers/lvgl/examples/widgets/roller/lv_example_roller_3.o: \
 ../Drivers/lvgl/examples/widgets/roller/../../../src/lv_init.h:
 ../Drivers/lvgl/examples/widgets/roller/../../../src/lv_conf_internal.h:
 ../Drivers/lvgl/examples/widgets/roller/../../../src/lv_conf_kconfig.h:
-C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
+F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
 ../Drivers/lvgl/examples/widgets/roller/../../../src/misc/lv_types.h:
 ../Drivers/lvgl/examples/widgets/roller/../../../src/misc/../lv_conf_internal.h:
 ../Drivers/lvgl/examples/widgets/roller/../../../src/stdlib/lv_mem.h:

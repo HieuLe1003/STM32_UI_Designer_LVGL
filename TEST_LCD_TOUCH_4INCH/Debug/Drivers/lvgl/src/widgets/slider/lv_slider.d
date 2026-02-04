@@ -6,7 +6,7 @@ Drivers/lvgl/src/widgets/slider/lv_slider.o: \
  ../Drivers/lvgl/src/widgets/slider/../bar/../../core/lv_obj.h \
  ../Drivers/lvgl/src/widgets/slider/../bar/../../core/../lv_conf_internal.h \
  ../Drivers/lvgl/src/widgets/slider/../bar/../../core/../lv_conf_kconfig.h \
- C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
+ F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
  ../Drivers/lvgl/src/widgets/slider/../bar/../../core/../misc/lv_types.h \
  ../Drivers/lvgl/src/widgets/slider/../bar/../../core/../misc/../lv_conf_internal.h \
  ../Drivers/lvgl/src/widgets/slider/../bar/../../core/../misc/lv_style.h \
@@ -168,7 +168,7 @@ Drivers/lvgl/src/widgets/slider/lv_slider.o: \
 ../Drivers/lvgl/src/widgets/slider/../bar/../../core/lv_obj.h:
 ../Drivers/lvgl/src/widgets/slider/../bar/../../core/../lv_conf_internal.h:
 ../Drivers/lvgl/src/widgets/slider/../bar/../../core/../lv_conf_kconfig.h:
-C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
+F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
 ../Drivers/lvgl/src/widgets/slider/../bar/../../core/../misc/lv_types.h:
 ../Drivers/lvgl/src/widgets/slider/../bar/../../core/../misc/../lv_conf_internal.h:
 ../Drivers/lvgl/src/widgets/slider/../bar/../../core/../misc/lv_style.h:

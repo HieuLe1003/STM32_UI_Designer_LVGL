@@ -4,7 +4,7 @@ Drivers/lvgl/src/draw/sw/blend/lv_draw_sw_blend.o: \
  ../Drivers/lvgl/src/draw/sw/blend/../../../misc/lv_area.h \
  ../Drivers/lvgl/src/draw/sw/blend/../../../misc/../lv_conf_internal.h \
  ../Drivers/lvgl/src/draw/sw/blend/../../../misc/../lv_conf_kconfig.h \
- C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
+ F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
  ../Drivers/lvgl/src/draw/sw/blend/../../../misc/lv_types.h \
  ../Drivers/lvgl/src/draw/sw/blend/../../../misc/lv_math.h \
  ../Drivers/lvgl/src/draw/sw/blend/lv_draw_sw_blend_private.h \
@@ -125,7 +125,7 @@ Drivers/lvgl/src/draw/sw/blend/lv_draw_sw_blend.o: \
 ../Drivers/lvgl/src/draw/sw/blend/../../../misc/lv_area.h:
 ../Drivers/lvgl/src/draw/sw/blend/../../../misc/../lv_conf_internal.h:
 ../Drivers/lvgl/src/draw/sw/blend/../../../misc/../lv_conf_kconfig.h:
-C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
+F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
 ../Drivers/lvgl/src/draw/sw/blend/../../../misc/lv_types.h:
 ../Drivers/lvgl/src/draw/sw/blend/../../../misc/lv_math.h:
 ../Drivers/lvgl/src/draw/sw/blend/lv_draw_sw_blend_private.h:

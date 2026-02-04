@@ -1,5 +1,6 @@
-../Drivers/UI/ui_events.c:17:6:ControlJoint1Servo	2
-../Drivers/UI/ui_events.c:28:6:OnOffLED	2
-../Drivers/UI/ui_events.c:46:6:Mode1_ON	2
-../Drivers/UI/ui_events.c:59:6:Mode2_ON	2
-../Drivers/UI/ui_events.c:72:6:Mode3_ON	2
+../Drivers/UI/ui_events.c:21:6:ControlJoint1Servo	2
+../Drivers/UI/ui_events.c:32:6:OnOffLED	2
+../Drivers/UI/ui_events.c:50:6:Mode1_ON	2
+../Drivers/UI/ui_events.c:63:6:Mode2_ON	2
+../Drivers/UI/ui_events.c:76:6:Mode3_ON	2
+../Drivers/UI/ui_events.c:89:6:ResetCount	1

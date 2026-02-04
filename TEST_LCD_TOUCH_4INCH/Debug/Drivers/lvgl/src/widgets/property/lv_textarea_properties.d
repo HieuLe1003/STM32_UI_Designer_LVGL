@@ -4,7 +4,7 @@ Drivers/lvgl/src/widgets/property/lv_textarea_properties.o: \
  ../Drivers/lvgl/src/widgets/property/../textarea/../label/lv_label.h \
  ../Drivers/lvgl/src/widgets/property/../textarea/../label/../../lv_conf_internal.h \
  ../Drivers/lvgl/src/widgets/property/../textarea/../label/../../lv_conf_kconfig.h \
- C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
+ F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
  ../Drivers/lvgl/src/widgets/property/../textarea/../label/../../misc/lv_types.h \
  ../Drivers/lvgl/src/widgets/property/../textarea/../label/../../misc/../lv_conf_internal.h \
  ../Drivers/lvgl/src/widgets/property/../textarea/../label/../../core/lv_obj.h \
@@ -129,7 +129,7 @@ Drivers/lvgl/src/widgets/property/lv_textarea_properties.o: \
 ../Drivers/lvgl/src/widgets/property/../textarea/../label/lv_label.h:
 ../Drivers/lvgl/src/widgets/property/../textarea/../label/../../lv_conf_internal.h:
 ../Drivers/lvgl/src/widgets/property/../textarea/../label/../../lv_conf_kconfig.h:
-C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
+F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
 ../Drivers/lvgl/src/widgets/property/../textarea/../label/../../misc/lv_types.h:
 ../Drivers/lvgl/src/widgets/property/../textarea/../label/../../misc/../lv_conf_internal.h:
 ../Drivers/lvgl/src/widgets/property/../textarea/../label/../../core/lv_obj.h:

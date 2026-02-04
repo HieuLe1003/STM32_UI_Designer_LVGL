@@ -3,7 +3,7 @@ Drivers/lvgl/src/widgets/property/lv_dropdown_properties.o: \
  ../Drivers/lvgl/src/widgets/property/../dropdown/lv_dropdown.h \
  ../Drivers/lvgl/src/widgets/property/../dropdown/../../lv_conf_internal.h \
  ../Drivers/lvgl/src/widgets/property/../dropdown/../../lv_conf_kconfig.h \
- C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
+ F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
  ../Drivers/lvgl/src/widgets/property/../dropdown/../label/lv_label.h \
  ../Drivers/lvgl/src/widgets/property/../dropdown/../label/../../lv_conf_internal.h \
  ../Drivers/lvgl/src/widgets/property/../dropdown/../label/../../misc/lv_types.h \
@@ -129,7 +129,7 @@ Drivers/lvgl/src/widgets/property/lv_dropdown_properties.o: \
 ../Drivers/lvgl/src/widgets/property/../dropdown/lv_dropdown.h:
 ../Drivers/lvgl/src/widgets/property/../dropdown/../../lv_conf_internal.h:
 ../Drivers/lvgl/src/widgets/property/../dropdown/../../lv_conf_kconfig.h:
-C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
+F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
 ../Drivers/lvgl/src/widgets/property/../dropdown/../label/lv_label.h:
 ../Drivers/lvgl/src/widgets/property/../dropdown/../label/../../lv_conf_internal.h:
 ../Drivers/lvgl/src/widgets/property/../dropdown/../label/../../misc/lv_types.h:

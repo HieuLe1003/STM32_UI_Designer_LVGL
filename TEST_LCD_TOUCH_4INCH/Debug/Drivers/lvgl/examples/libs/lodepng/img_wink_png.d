@@ -5,7 +5,7 @@ Drivers/lvgl/examples/libs/lodepng/img_wink_png.o: \
  ../Drivers/lvgl/examples/libs/lodepng/../../../src/lv_init.h \
  ../Drivers/lvgl/examples/libs/lodepng/../../../src/lv_conf_internal.h \
  ../Drivers/lvgl/examples/libs/lodepng/../../../src/lv_conf_kconfig.h \
- C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
+ F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
  ../Drivers/lvgl/examples/libs/lodepng/../../../src/misc/lv_types.h \
  ../Drivers/lvgl/examples/libs/lodepng/../../../src/misc/../lv_conf_internal.h \
  ../Drivers/lvgl/examples/libs/lodepng/../../../src/stdlib/lv_mem.h \
@@ -444,7 +444,7 @@ Drivers/lvgl/examples/libs/lodepng/img_wink_png.o: \
 ../Drivers/lvgl/examples/libs/lodepng/../../../src/lv_init.h:
 ../Drivers/lvgl/examples/libs/lodepng/../../../src/lv_conf_internal.h:
 ../Drivers/lvgl/examples/libs/lodepng/../../../src/lv_conf_kconfig.h:
-C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
+F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
 ../Drivers/lvgl/examples/libs/lodepng/../../../src/misc/lv_types.h:
 ../Drivers/lvgl/examples/libs/lodepng/../../../src/misc/../lv_conf_internal.h:
 ../Drivers/lvgl/examples/libs/lodepng/../../../src/stdlib/lv_mem.h:

@@ -1,6 +1,6 @@
-../Drivers/UI/screens/ui_ViewDataScreen.c:29:6:ui_event_Mode1Count	24	static
-../Drivers/UI/screens/ui_ViewDataScreen.c:46:6:ui_event_Mode2Count	24	static
-../Drivers/UI/screens/ui_ViewDataScreen.c:63:6:ui_event_Mode3Count	24	static
-../Drivers/UI/screens/ui_ViewDataScreen.c:80:6:ui_event_HomeButton6	32	static
-../Drivers/UI/screens/ui_ViewDataScreen.c:91:6:ui_ViewDataScreen_screen_init	128	static
-../Drivers/UI/screens/ui_ViewDataScreen.c:284:6:ui_ViewDataScreen_screen_destroy	8	static
+../Drivers/UI/screens/ui_ViewDataScreen.c:32:6:ui_event_HomeButton6	32	static
+../Drivers/UI/screens/ui_ViewDataScreen.c:41:6:ui_event_ResetButton	24	static
+../Drivers/UI/screens/ui_ViewDataScreen.c:52:6:ui_event_ResetButton2	24	static
+../Drivers/UI/screens/ui_ViewDataScreen.c:64:6:ui_event_ResetButton1	24	static
+../Drivers/UI/screens/ui_ViewDataScreen.c:77:6:ui_ViewDataScreen_screen_init	184	static
+../Drivers/UI/screens/ui_ViewDataScreen.c:372:6:ui_ViewDataScreen_screen_destroy	8	static

@@ -301,8 +301,8 @@ all: main-build
 main-build: TEST_LCD_TOUCH_4INCH.elf secondary-outputs
 
 # Tool invocations
-TEST_LCD_TOUCH_4INCH.elf TEST_LCD_TOUCH_4INCH.map: $(OBJS) $(USER_OBJS) C:\TouchGFXProjects\TEST_LCD_TOUCH_4INCH_Final\TEST_LCD_TOUCH_4INCH\STM32H750VBTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "TEST_LCD_TOUCH_4INCH.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m7 -T"C:\TouchGFXProjects\TEST_LCD_TOUCH_4INCH_Final\TEST_LCD_TOUCH_4INCH\STM32H750VBTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="TEST_LCD_TOUCH_4INCH.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+TEST_LCD_TOUCH_4INCH.elf TEST_LCD_TOUCH_4INCH.map: $(OBJS) $(USER_OBJS) F:\Git_Clone\STM32_UI_Designer_LVGL\TEST_LCD_TOUCH_4INCH\STM32H750VBTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "TEST_LCD_TOUCH_4INCH.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m7 -T"F:\Git_Clone\STM32_UI_Designer_LVGL\TEST_LCD_TOUCH_4INCH\STM32H750VBTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="TEST_LCD_TOUCH_4INCH.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

@@ -3,7 +3,7 @@ Drivers/lvgl/src/lv_init.o: ../Drivers/lvgl/src/lv_init.c \
  ../Drivers/lvgl/src/misc/lv_timer.h \
  ../Drivers/lvgl/src/misc/../lv_conf_internal.h \
  ../Drivers/lvgl/src/misc/../lv_conf_kconfig.h \
- C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
+ F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
  ../Drivers/lvgl/src/misc/../tick/lv_tick.h \
  ../Drivers/lvgl/src/misc/../tick/../lv_conf_internal.h \
  ../Drivers/lvgl/src/misc/../tick/../misc/lv_types.h \
@@ -270,7 +270,7 @@ Drivers/lvgl/src/lv_init.o: ../Drivers/lvgl/src/lv_init.c \
 ../Drivers/lvgl/src/misc/lv_timer.h:
 ../Drivers/lvgl/src/misc/../lv_conf_internal.h:
 ../Drivers/lvgl/src/misc/../lv_conf_kconfig.h:
-C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
+F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
 ../Drivers/lvgl/src/misc/../tick/lv_tick.h:
 ../Drivers/lvgl/src/misc/../tick/../lv_conf_internal.h:
 ../Drivers/lvgl/src/misc/../tick/../misc/lv_types.h:

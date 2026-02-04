@@ -5,7 +5,7 @@ Drivers/lvgl/src/libs/qrcode/lv_qrcode.o: \
  ../Drivers/lvgl/src/libs/qrcode/../../core/../misc/lv_types.h \
  ../Drivers/lvgl/src/libs/qrcode/../../core/../misc/../lv_conf_internal.h \
  ../Drivers/lvgl/src/libs/qrcode/../../core/../misc/../lv_conf_kconfig.h \
- C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
+ F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
  ../Drivers/lvgl/src/libs/qrcode/../../core/../misc/lv_area.h \
  ../Drivers/lvgl/src/libs/qrcode/../../core/../misc/lv_types.h \
  ../Drivers/lvgl/src/libs/qrcode/../../core/../misc/lv_math.h \
@@ -145,7 +145,7 @@ Drivers/lvgl/src/libs/qrcode/lv_qrcode.o: \
 ../Drivers/lvgl/src/libs/qrcode/../../core/../misc/lv_types.h:
 ../Drivers/lvgl/src/libs/qrcode/../../core/../misc/../lv_conf_internal.h:
 ../Drivers/lvgl/src/libs/qrcode/../../core/../misc/../lv_conf_kconfig.h:
-C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
+F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
 ../Drivers/lvgl/src/libs/qrcode/../../core/../misc/lv_area.h:
 ../Drivers/lvgl/src/libs/qrcode/../../core/../misc/lv_types.h:
 ../Drivers/lvgl/src/libs/qrcode/../../core/../misc/lv_math.h:

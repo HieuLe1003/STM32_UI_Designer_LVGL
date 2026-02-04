@@ -7,7 +7,7 @@ Drivers/lvgl/demos/music/assets/img_lv_demo_music_btn_next_large.o: \
  ../Drivers/lvgl/demos/music/assets/../../../src/lv_init.h \
  ../Drivers/lvgl/demos/music/assets/../../../src/lv_conf_internal.h \
  ../Drivers/lvgl/demos/music/assets/../../../src/lv_conf_kconfig.h \
- C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
+ F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
  ../Drivers/lvgl/demos/music/assets/../../../src/misc/lv_types.h \
  ../Drivers/lvgl/demos/music/assets/../../../src/misc/../lv_conf_internal.h \
  ../Drivers/lvgl/demos/music/assets/../../../src/stdlib/lv_mem.h \
@@ -448,7 +448,7 @@ Drivers/lvgl/demos/music/assets/img_lv_demo_music_btn_next_large.o: \
 ../Drivers/lvgl/demos/music/assets/../../../src/lv_init.h:
 ../Drivers/lvgl/demos/music/assets/../../../src/lv_conf_internal.h:
 ../Drivers/lvgl/demos/music/assets/../../../src/lv_conf_kconfig.h:
-C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
+F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
 ../Drivers/lvgl/demos/music/assets/../../../src/misc/lv_types.h:
 ../Drivers/lvgl/demos/music/assets/../../../src/misc/../lv_conf_internal.h:
 ../Drivers/lvgl/demos/music/assets/../../../src/stdlib/lv_mem.h:

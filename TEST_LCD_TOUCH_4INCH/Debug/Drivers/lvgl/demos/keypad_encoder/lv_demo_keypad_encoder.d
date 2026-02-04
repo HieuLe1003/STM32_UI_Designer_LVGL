@@ -7,7 +7,7 @@ Drivers/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.o: \
  ../Drivers/lvgl/demos/keypad_encoder/../../src/lv_init.h \
  ../Drivers/lvgl/demos/keypad_encoder/../../src/lv_conf_internal.h \
  ../Drivers/lvgl/demos/keypad_encoder/../../src/lv_conf_kconfig.h \
- C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
+ F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
  ../Drivers/lvgl/demos/keypad_encoder/../../src/misc/lv_types.h \
  ../Drivers/lvgl/demos/keypad_encoder/../../src/misc/../lv_conf_internal.h \
  ../Drivers/lvgl/demos/keypad_encoder/../../src/stdlib/lv_mem.h \
@@ -448,7 +448,7 @@ Drivers/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.o: \
 ../Drivers/lvgl/demos/keypad_encoder/../../src/lv_init.h:
 ../Drivers/lvgl/demos/keypad_encoder/../../src/lv_conf_internal.h:
 ../Drivers/lvgl/demos/keypad_encoder/../../src/lv_conf_kconfig.h:
-C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
+F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
 ../Drivers/lvgl/demos/keypad_encoder/../../src/misc/lv_types.h:
 ../Drivers/lvgl/demos/keypad_encoder/../../src/misc/../lv_conf_internal.h:
 ../Drivers/lvgl/demos/keypad_encoder/../../src/stdlib/lv_mem.h:

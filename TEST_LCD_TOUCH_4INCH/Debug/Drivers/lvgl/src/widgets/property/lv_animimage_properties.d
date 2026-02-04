@@ -4,7 +4,7 @@ Drivers/lvgl/src/widgets/property/lv_animimage_properties.o: \
  ../Drivers/lvgl/src/widgets/property/../animimage/../image/lv_image.h \
  ../Drivers/lvgl/src/widgets/property/../animimage/../image/../../lv_conf_internal.h \
  ../Drivers/lvgl/src/widgets/property/../animimage/../image/../../lv_conf_kconfig.h \
- C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
+ F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
  ../Drivers/lvgl/src/widgets/property/../animimage/../image/../../core/lv_obj.h \
  ../Drivers/lvgl/src/widgets/property/../animimage/../image/../../core/../lv_conf_internal.h \
  ../Drivers/lvgl/src/widgets/property/../animimage/../image/../../core/../misc/lv_types.h \
@@ -126,7 +126,7 @@ Drivers/lvgl/src/widgets/property/lv_animimage_properties.o: \
 ../Drivers/lvgl/src/widgets/property/../animimage/../image/lv_image.h:
 ../Drivers/lvgl/src/widgets/property/../animimage/../image/../../lv_conf_internal.h:
 ../Drivers/lvgl/src/widgets/property/../animimage/../image/../../lv_conf_kconfig.h:
-C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
+F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
 ../Drivers/lvgl/src/widgets/property/../animimage/../image/../../core/lv_obj.h:
 ../Drivers/lvgl/src/widgets/property/../animimage/../image/../../core/../lv_conf_internal.h:
 ../Drivers/lvgl/src/widgets/property/../animimage/../image/../../core/../misc/lv_types.h:

@@ -6,7 +6,7 @@ Drivers/lvgl/examples/widgets/buttonmatrix/lv_example_buttonmatrix_1.o: \
  ../Drivers/lvgl/examples/widgets/buttonmatrix/../../../src/lv_init.h \
  ../Drivers/lvgl/examples/widgets/buttonmatrix/../../../src/lv_conf_internal.h \
  ../Drivers/lvgl/examples/widgets/buttonmatrix/../../../src/lv_conf_kconfig.h \
- C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
+ F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
  ../Drivers/lvgl/examples/widgets/buttonmatrix/../../../src/misc/lv_types.h \
  ../Drivers/lvgl/examples/widgets/buttonmatrix/../../../src/misc/../lv_conf_internal.h \
  ../Drivers/lvgl/examples/widgets/buttonmatrix/../../../src/stdlib/lv_mem.h \
@@ -487,7 +487,7 @@ Drivers/lvgl/examples/widgets/buttonmatrix/lv_example_buttonmatrix_1.o: \
 ../Drivers/lvgl/examples/widgets/buttonmatrix/../../../src/lv_init.h:
 ../Drivers/lvgl/examples/widgets/buttonmatrix/../../../src/lv_conf_internal.h:
 ../Drivers/lvgl/examples/widgets/buttonmatrix/../../../src/lv_conf_kconfig.h:
-C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
+F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
 ../Drivers/lvgl/examples/widgets/buttonmatrix/../../../src/misc/lv_types.h:
 ../Drivers/lvgl/examples/widgets/buttonmatrix/../../../src/misc/../lv_conf_internal.h:
 ../Drivers/lvgl/examples/widgets/buttonmatrix/../../../src/stdlib/lv_mem.h:

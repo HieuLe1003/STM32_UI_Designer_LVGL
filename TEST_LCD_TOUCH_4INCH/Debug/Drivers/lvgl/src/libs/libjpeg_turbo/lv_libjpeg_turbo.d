@@ -4,7 +4,7 @@ Drivers/lvgl/src/libs/libjpeg_turbo/lv_libjpeg_turbo.o: \
  ../Drivers/lvgl/src/libs/libjpeg_turbo/../../draw/lv_image_decoder.h \
  ../Drivers/lvgl/src/libs/libjpeg_turbo/../../draw/../lv_conf_internal.h \
  ../Drivers/lvgl/src/libs/libjpeg_turbo/../../draw/../lv_conf_kconfig.h \
- C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
+ F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
  ../Drivers/lvgl/src/libs/libjpeg_turbo/../../draw/lv_draw_buf.h \
  ../Drivers/lvgl/src/libs/libjpeg_turbo/../../draw/../misc/lv_types.h \
  ../Drivers/lvgl/src/libs/libjpeg_turbo/../../draw/../misc/../lv_conf_internal.h \
@@ -463,7 +463,7 @@ Drivers/lvgl/src/libs/libjpeg_turbo/lv_libjpeg_turbo.o: \
 ../Drivers/lvgl/src/libs/libjpeg_turbo/../../draw/lv_image_decoder.h:
 ../Drivers/lvgl/src/libs/libjpeg_turbo/../../draw/../lv_conf_internal.h:
 ../Drivers/lvgl/src/libs/libjpeg_turbo/../../draw/../lv_conf_kconfig.h:
-C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
+F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
 ../Drivers/lvgl/src/libs/libjpeg_turbo/../../draw/lv_draw_buf.h:
 ../Drivers/lvgl/src/libs/libjpeg_turbo/../../draw/../misc/lv_types.h:
 ../Drivers/lvgl/src/libs/libjpeg_turbo/../../draw/../misc/../lv_conf_internal.h:

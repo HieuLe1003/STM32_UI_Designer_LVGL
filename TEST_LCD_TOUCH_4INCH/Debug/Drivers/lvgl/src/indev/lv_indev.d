@@ -4,7 +4,7 @@ Drivers/lvgl/src/indev/lv_indev.o: ../Drivers/lvgl/src/indev/lv_indev.c \
  ../Drivers/lvgl/src/indev/../core/lv_group.h \
  ../Drivers/lvgl/src/indev/../core/../lv_conf_internal.h \
  ../Drivers/lvgl/src/indev/../core/../lv_conf_kconfig.h \
- C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
+ F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
  ../Drivers/lvgl/src/indev/../core/../misc/lv_types.h \
  ../Drivers/lvgl/src/indev/../core/../misc/../lv_conf_internal.h \
  ../Drivers/lvgl/src/indev/../core/../misc/lv_ll.h \
@@ -222,7 +222,7 @@ Drivers/lvgl/src/indev/lv_indev.o: ../Drivers/lvgl/src/indev/lv_indev.c \
 ../Drivers/lvgl/src/indev/../core/lv_group.h:
 ../Drivers/lvgl/src/indev/../core/../lv_conf_internal.h:
 ../Drivers/lvgl/src/indev/../core/../lv_conf_kconfig.h:
-C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
+F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
 ../Drivers/lvgl/src/indev/../core/../misc/lv_types.h:
 ../Drivers/lvgl/src/indev/../core/../misc/../lv_conf_internal.h:
 ../Drivers/lvgl/src/indev/../core/../misc/lv_ll.h:

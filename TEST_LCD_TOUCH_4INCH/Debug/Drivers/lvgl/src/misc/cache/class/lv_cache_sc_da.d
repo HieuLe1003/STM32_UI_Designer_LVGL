@@ -5,7 +5,7 @@ Drivers/lvgl/src/misc/cache/class/lv_cache_sc_da.o: \
  ../Drivers/lvgl/src/misc/cache/class/../../lv_types.h \
  ../Drivers/lvgl/src/misc/cache/class/../../../lv_conf_internal.h \
  ../Drivers/lvgl/src/misc/cache/class/../../../lv_conf_kconfig.h \
- C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
+ F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
  ../Drivers/lvgl/src/misc/cache/class/../../../osal/lv_os_private.h \
  ../Drivers/lvgl/src/misc/cache/class/../../../osal/../lv_conf_internal.h \
  ../Drivers/lvgl/src/misc/cache/class/../../../osal/lv_os.h \
@@ -30,7 +30,7 @@ Drivers/lvgl/src/misc/cache/class/lv_cache_sc_da.o: \
 ../Drivers/lvgl/src/misc/cache/class/../../lv_types.h:
 ../Drivers/lvgl/src/misc/cache/class/../../../lv_conf_internal.h:
 ../Drivers/lvgl/src/misc/cache/class/../../../lv_conf_kconfig.h:
-C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
+F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
 ../Drivers/lvgl/src/misc/cache/class/../../../osal/lv_os_private.h:
 ../Drivers/lvgl/src/misc/cache/class/../../../osal/../lv_conf_internal.h:
 ../Drivers/lvgl/src/misc/cache/class/../../../osal/lv_os.h:

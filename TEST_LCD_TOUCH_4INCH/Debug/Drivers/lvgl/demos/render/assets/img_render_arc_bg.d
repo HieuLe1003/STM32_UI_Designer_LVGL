@@ -5,7 +5,7 @@ Drivers/lvgl/demos/render/assets/img_render_arc_bg.o: \
  ../Drivers/lvgl/demos/render/assets/../../../src/lv_init.h \
  ../Drivers/lvgl/demos/render/assets/../../../src/lv_conf_internal.h \
  ../Drivers/lvgl/demos/render/assets/../../../src/lv_conf_kconfig.h \
- C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
+ F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h \
  ../Drivers/lvgl/demos/render/assets/../../../src/misc/lv_types.h \
  ../Drivers/lvgl/demos/render/assets/../../../src/misc/../lv_conf_internal.h \
  ../Drivers/lvgl/demos/render/assets/../../../src/stdlib/lv_mem.h \
@@ -444,7 +444,7 @@ Drivers/lvgl/demos/render/assets/img_render_arc_bg.o: \
 ../Drivers/lvgl/demos/render/assets/../../../src/lv_init.h:
 ../Drivers/lvgl/demos/render/assets/../../../src/lv_conf_internal.h:
 ../Drivers/lvgl/demos/render/assets/../../../src/lv_conf_kconfig.h:
-C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
+F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lv_conf.h:
 ../Drivers/lvgl/demos/render/assets/../../../src/misc/lv_types.h:
 ../Drivers/lvgl/demos/render/assets/../../../src/misc/../lv_conf_internal.h:
 ../Drivers/lvgl/demos/render/assets/../../../src/stdlib/lv_mem.h:
