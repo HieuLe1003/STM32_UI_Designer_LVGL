@@ -1,0 +1,6 @@
+../Drivers/UI/screens/ui_MainMenu.c:41:6:ui_event_AutoButton	32	static
+../Drivers/UI/screens/ui_MainMenu.c:50:6:ui_event_ManualButton	32	static
+../Drivers/UI/screens/ui_MainMenu.c:59:6:ui_event_ViewDataButton	32	static
+../Drivers/UI/screens/ui_MainMenu.c:68:6:ui_event_SettingButton	32	static
+../Drivers/UI/screens/ui_MainMenu.c:79:6:ui_MainMenu_screen_init	208	static
+../Drivers/UI/screens/ui_MainMenu.c:499:6:ui_MainMenu_screen_destroy	8	static

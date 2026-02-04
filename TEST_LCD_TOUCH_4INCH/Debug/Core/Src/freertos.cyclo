@@ -1,0 +1,3 @@
+../Core/Src/freertos.c:107:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:152:6:UI_Task_Func	8
+../Core/Src/freertos.c:201:6:RobotControlTask	9

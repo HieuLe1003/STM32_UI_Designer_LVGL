@@ -1,0 +1,6 @@
+C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lvgl/src/core/lv_obj_style_gen.h:154:23:lv_obj_get_style_pad_top	1
+C:/TouchGFXProjects/TEST_LCD_TOUCH_4INCH_Final/TEST_LCD_TOUCH_4INCH/Drivers/lvgl/src/core/lv_obj_style_gen.h:172:23:lv_obj_get_style_pad_right	1
+../Drivers/UI/screens/ui_ManualScreen.c:23:6:ui_event_HomeButton2	2
+../Drivers/UI/screens/ui_ManualScreen.c:32:6:ui_event_Slider1	2
+../Drivers/UI/screens/ui_ManualScreen.c:43:6:ui_ManualScreen_screen_init	13
+../Drivers/UI/screens/ui_ManualScreen.c:227:6:ui_ManualScreen_screen_destroy	2

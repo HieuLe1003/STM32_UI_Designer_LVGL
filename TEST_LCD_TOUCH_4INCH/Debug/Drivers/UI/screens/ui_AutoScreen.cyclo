@@ -1,0 +1,8 @@
+../Drivers/UI/screens/ui_AutoScreen.c:24:6:ui_event_HomeButton5	2
+../Drivers/UI/screens/ui_AutoScreen.c:33:6:ui_event_Mode1Button	5
+../Drivers/UI/screens/ui_AutoScreen.c:50:6:ui_event_Mode2Button	5
+../Drivers/UI/screens/ui_AutoScreen.c:67:6:ui_event_Mode3Button	5
+../Drivers/UI/screens/ui_AutoScreen.c:84:6:ui_event_startstopButton	2
+../Drivers/UI/screens/ui_AutoScreen.c:97:6:ui_event_ViewDataButton1	2
+../Drivers/UI/screens/ui_AutoScreen.c:108:6:ui_AutoScreen_screen_init	1
+../Drivers/UI/screens/ui_AutoScreen.c:316:6:ui_AutoScreen_screen_destroy	2

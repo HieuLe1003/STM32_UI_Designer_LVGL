@@ -1,0 +1,4 @@
+../Core/Src/ft6336.c:23:4:FT6336_WR_Reg	24	static
+../Core/Src/ft6336.c:54:6:FT6336_RD_Reg	32	static
+../Core/Src/ft6336.c:80:4:FT6336_Init	16	static
+../Core/Src/ft6336.c:137:4:FT6336_Scan	24	static

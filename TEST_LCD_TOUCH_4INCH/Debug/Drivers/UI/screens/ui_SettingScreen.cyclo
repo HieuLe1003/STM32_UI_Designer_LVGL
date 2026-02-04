@@ -1,0 +1,4 @@
+../Drivers/UI/screens/ui_SettingScreen.c:24:6:ui_event_InfoButton	2
+../Drivers/UI/screens/ui_SettingScreen.c:33:6:ui_event_HomeButton3	2
+../Drivers/UI/screens/ui_SettingScreen.c:44:6:ui_SettingScreen_screen_init	1
+../Drivers/UI/screens/ui_SettingScreen.c:234:6:ui_SettingScreen_screen_destroy	2

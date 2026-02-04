@@ -1,0 +1,5 @@
+../Drivers/UI/ui_events.c:17:6:ControlJoint1Servo	24	static
+../Drivers/UI/ui_events.c:28:6:OnOffLED	24	static
+../Drivers/UI/ui_events.c:46:6:Mode1_ON	24	static
+../Drivers/UI/ui_events.c:59:6:Mode2_ON	24	static
+../Drivers/UI/ui_events.c:72:6:Mode3_ON	24	static

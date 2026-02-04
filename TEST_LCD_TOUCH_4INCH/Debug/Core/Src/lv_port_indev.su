@@ -1,0 +1,3 @@
+../Core/Src/lv_port_indev.c:41:6:lv_port_indev_init	8	static
+../Core/Src/lv_port_indev.c:63:13:touchpad_init	8	static
+../Core/Src/lv_port_indev.c:73:13:touchpad_read	16	static

@@ -1,0 +1,4 @@
+../Core/Src/lv_port_disp.c:45:6:lv_port_disp_init	1
+../Core/Src/lv_port_disp.c:69:13:disp_init	2
+../Core/Src/lv_port_disp.c:86:13:transfer_complete_cb	3
+../Core/Src/lv_port_disp.c:98:13:disp_flush	7

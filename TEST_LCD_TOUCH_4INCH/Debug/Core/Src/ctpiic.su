@@ -1,0 +1,10 @@
+../Core/Src/ctpiic.c:12:6:CTP_Delay	8	static
+../Core/Src/ctpiic.c:21:6:delay_us	24	static,ignoring_inline_asm
+../Core/Src/ctpiic.c:39:6:CTP_IIC_Init	8	static
+../Core/Src/ctpiic.c:66:6:CTP_IIC_Start	8	static
+../Core/Src/ctpiic.c:84:6:CTP_IIC_Stop	8	static
+../Core/Src/ctpiic.c:103:4:CTP_IIC_Wait_Ack	16	static
+../Core/Src/ctpiic.c:129:6:CTP_IIC_Ack	8	static
+../Core/Src/ctpiic.c:147:6:CTP_IIC_NAck	8	static
+../Core/Src/ctpiic.c:165:6:CTP_IIC_Send_Byte	24	static
+../Core/Src/ctpiic.c:189:4:CTP_IIC_Read_Byte	24	static

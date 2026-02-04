@@ -1,0 +1,4 @@
+../Core/Src/lv_port_disp.c:45:6:lv_port_disp_init	16	static
+../Core/Src/lv_port_disp.c:69:13:disp_init	8	static
+../Core/Src/lv_port_disp.c:86:13:transfer_complete_cb	16	static
+../Core/Src/lv_port_disp.c:98:13:disp_flush	56	static,ignoring_inline_asm

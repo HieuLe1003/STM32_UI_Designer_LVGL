@@ -1,0 +1,6 @@
+../Drivers/UI/screens/ui_ViewDataScreen.c:29:6:ui_event_Mode1Count	24	static
+../Drivers/UI/screens/ui_ViewDataScreen.c:46:6:ui_event_Mode2Count	24	static
+../Drivers/UI/screens/ui_ViewDataScreen.c:63:6:ui_event_Mode3Count	24	static
+../Drivers/UI/screens/ui_ViewDataScreen.c:80:6:ui_event_HomeButton6	32	static
+../Drivers/UI/screens/ui_ViewDataScreen.c:91:6:ui_ViewDataScreen_screen_init	128	static
+../Drivers/UI/screens/ui_ViewDataScreen.c:284:6:ui_ViewDataScreen_screen_destroy	8	static

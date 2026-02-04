@@ -1,0 +1,4 @@
+../Core/Src/ft6336.c:23:4:FT6336_WR_Reg	3
+../Core/Src/ft6336.c:54:6:FT6336_RD_Reg	2
+../Core/Src/ft6336.c:80:4:FT6336_Init	7
+../Core/Src/ft6336.c:137:4:FT6336_Scan	16
