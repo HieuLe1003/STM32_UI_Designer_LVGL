@@ -16,8 +16,6 @@ extern void ui_SettingScreen_screen_destroy(void);
 extern lv_obj_t * ui_SettingScreen;
 extern lv_obj_t * ui_Image14;
 extern lv_obj_t * ui_settingText;
-extern lv_obj_t * ui_Label16;
-extern lv_obj_t * ui_Image15;
 extern lv_obj_t * ui_Image16;
 extern lv_obj_t * ui_Image1;
 extern lv_obj_t * ui_Image17;
@@ -30,6 +28,8 @@ extern void ui_event_InfoButton(lv_event_t * e);
 extern lv_obj_t * ui_InfoButton;
 extern void ui_event_HomeButton3(lv_event_t * e);
 extern lv_obj_t * ui_HomeButton3;
+extern lv_obj_t * ui_Label16;
+extern lv_obj_t * ui_Image15;
 // CUSTOM VARIABLES
 
 #ifdef __cplusplus

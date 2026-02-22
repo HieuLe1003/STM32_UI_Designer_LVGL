@@ -1,6 +1,6 @@
-../Drivers/UI/screens/ui_ViewDataScreen.c:32:6:ui_event_HomeButton6	2
-../Drivers/UI/screens/ui_ViewDataScreen.c:41:6:ui_event_ResetButton	2
-../Drivers/UI/screens/ui_ViewDataScreen.c:52:6:ui_event_ResetButton2	2
-../Drivers/UI/screens/ui_ViewDataScreen.c:64:6:ui_event_ResetButton1	2
-../Drivers/UI/screens/ui_ViewDataScreen.c:77:6:ui_ViewDataScreen_screen_init	1
-../Drivers/UI/screens/ui_ViewDataScreen.c:372:6:ui_ViewDataScreen_screen_destroy	2
+../Drivers/UI/screens/ui_ViewDataScreen.c:29:6:ui_event_HomeButton6	2
+../Drivers/UI/screens/ui_ViewDataScreen.c:38:6:ui_event_ResetButton	2
+../Drivers/UI/screens/ui_ViewDataScreen.c:49:6:ui_event_ResetButton2	2
+../Drivers/UI/screens/ui_ViewDataScreen.c:61:6:ui_event_ResetButton1	2
+../Drivers/UI/screens/ui_ViewDataScreen.c:74:6:ui_ViewDataScreen_screen_init	1
+../Drivers/UI/screens/ui_ViewDataScreen.c:305:6:ui_ViewDataScreen_screen_destroy	2

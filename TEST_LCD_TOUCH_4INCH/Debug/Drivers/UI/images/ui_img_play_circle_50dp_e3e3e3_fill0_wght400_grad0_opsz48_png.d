@@ -447,7 +447,8 @@ Drivers/UI/images/ui_img_play_circle_50dp_e3e3e3_fill0_wght400_grad0_opsz48_png.
  ../Drivers/UI/images/../screens/ui_SettingScreen.h \
  ../Drivers/UI/images/../screens/ui_InfoScreen.h \
  ../Drivers/UI/images/../screens/ui_AutoScreen.h \
- ../Drivers/UI/images/../screens/ui_ViewDataScreen.h
+ ../Drivers/UI/images/../screens/ui_ViewDataScreen.h \
+ ../Drivers/UI/images/../screens/ui_CalibrationScreen.h
 ../Drivers/UI/images/../ui.h:
 F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lvgl/lvgl.h:
 F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lvgl/lv_version.h:
@@ -897,3 +898,4 @@ F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lvgl/src/lv_api
 ../Drivers/UI/images/../screens/ui_InfoScreen.h:
 ../Drivers/UI/images/../screens/ui_AutoScreen.h:
 ../Drivers/UI/images/../screens/ui_ViewDataScreen.h:
+../Drivers/UI/images/../screens/ui_CalibrationScreen.h:

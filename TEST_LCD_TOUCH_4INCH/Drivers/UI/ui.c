@@ -36,6 +36,7 @@ void ui_init(void)
     ui_InfoScreen_screen_init();
     ui_AutoScreen_screen_init();
     ui_ViewDataScreen_screen_init();
+    ui_CalibrationScreen_screen_init();
     ui____initial_actions0 = lv_obj_create(NULL);
     lv_disp_load_scr(ui_MainMenu);
 }
@@ -48,4 +49,5 @@ void ui_destroy(void)
     ui_InfoScreen_screen_destroy();
     ui_AutoScreen_screen_destroy();
     ui_ViewDataScreen_screen_destroy();
+    ui_CalibrationScreen_screen_destroy();
 }

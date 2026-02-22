@@ -29,6 +29,12 @@ extern lv_obj_t * ui_Slider5;
 extern lv_obj_t * ui_Slider6;
 extern lv_obj_t * ui_Switch1;
 extern lv_obj_t * ui_Label11;
+extern lv_obj_t * ui_Label26;
+extern lv_obj_t * ui_Label27;
+extern lv_obj_t * ui_Label28;
+extern lv_obj_t * ui_Label29;
+extern lv_obj_t * ui_Label30;
+extern lv_obj_t * ui_Label31;
 // CUSTOM VARIABLES
 
 #ifdef __cplusplus

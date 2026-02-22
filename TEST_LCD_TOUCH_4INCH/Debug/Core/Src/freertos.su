@@ -1,3 +1,4 @@
-../Core/Src/freertos.c:107:6:MX_FREERTOS_Init	8	static
-../Core/Src/freertos.c:152:6:UI_Task_Func	16	static
-../Core/Src/freertos.c:201:6:RobotControlTask	16	static
+../Core/Src/freertos.c:39:5:rnd	16	static
+../Core/Src/freertos.c:108:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:153:6:UI_Task_Func	16	static
+../Core/Src/freertos.c:202:6:RobotControlTask	24	static

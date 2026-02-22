@@ -1,6 +1,7 @@
-../Drivers/UI/screens/ui_MainMenu.c:41:6:ui_event_AutoButton	2
-../Drivers/UI/screens/ui_MainMenu.c:50:6:ui_event_ManualButton	2
-../Drivers/UI/screens/ui_MainMenu.c:59:6:ui_event_ViewDataButton	2
-../Drivers/UI/screens/ui_MainMenu.c:68:6:ui_event_SettingButton	2
-../Drivers/UI/screens/ui_MainMenu.c:79:6:ui_MainMenu_screen_init	1
-../Drivers/UI/screens/ui_MainMenu.c:499:6:ui_MainMenu_screen_destroy	2
+../Drivers/UI/screens/ui_MainMenu.c:36:6:ui_event_AutoButton	2
+../Drivers/UI/screens/ui_MainMenu.c:45:6:ui_event_ManualButton	2
+../Drivers/UI/screens/ui_MainMenu.c:54:6:ui_event_CalibButton	2
+../Drivers/UI/screens/ui_MainMenu.c:63:6:ui_event_ViewDataButton	2
+../Drivers/UI/screens/ui_MainMenu.c:72:6:ui_event_SettingButton	2
+../Drivers/UI/screens/ui_MainMenu.c:83:6:ui_MainMenu_screen_init	1
+../Drivers/UI/screens/ui_MainMenu.c:445:6:ui_MainMenu_screen_destroy	2

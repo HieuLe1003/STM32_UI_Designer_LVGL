@@ -6,6 +6,7 @@
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
 ../Drivers/UI/screens/ui_AutoScreen.c \
+../Drivers/UI/screens/ui_CalibrationScreen.c \
 ../Drivers/UI/screens/ui_InfoScreen.c \
 ../Drivers/UI/screens/ui_MainMenu.c \
 ../Drivers/UI/screens/ui_ManualScreen.c \
@@ -14,6 +15,7 @@ C_SRCS += \
 
 OBJS += \
 ./Drivers/UI/screens/ui_AutoScreen.o \
+./Drivers/UI/screens/ui_CalibrationScreen.o \
 ./Drivers/UI/screens/ui_InfoScreen.o \
 ./Drivers/UI/screens/ui_MainMenu.o \
 ./Drivers/UI/screens/ui_ManualScreen.o \
@@ -22,6 +24,7 @@ OBJS += \
 
 C_DEPS += \
 ./Drivers/UI/screens/ui_AutoScreen.d \
+./Drivers/UI/screens/ui_CalibrationScreen.d \
 ./Drivers/UI/screens/ui_InfoScreen.d \
 ./Drivers/UI/screens/ui_MainMenu.d \
 ./Drivers/UI/screens/ui_ManualScreen.d \
@@ -36,7 +39,7 @@ Drivers/UI/screens/%.o Drivers/UI/screens/%.su Drivers/UI/screens/%.cyclo: ../Dr
 clean: clean-Drivers-2f-UI-2f-screens
 
 clean-Drivers-2f-UI-2f-screens:
-	-$(RM) ./Drivers/UI/screens/ui_AutoScreen.cyclo ./Drivers/UI/screens/ui_AutoScreen.d ./Drivers/UI/screens/ui_AutoScreen.o ./Drivers/UI/screens/ui_AutoScreen.su ./Drivers/UI/screens/ui_InfoScreen.cyclo ./Drivers/UI/screens/ui_InfoScreen.d ./Drivers/UI/screens/ui_InfoScreen.o ./Drivers/UI/screens/ui_InfoScreen.su ./Drivers/UI/screens/ui_MainMenu.cyclo ./Drivers/UI/screens/ui_MainMenu.d ./Drivers/UI/screens/ui_MainMenu.o ./Drivers/UI/screens/ui_MainMenu.su ./Drivers/UI/screens/ui_ManualScreen.cyclo ./Drivers/UI/screens/ui_ManualScreen.d ./Drivers/UI/screens/ui_ManualScreen.o ./Drivers/UI/screens/ui_ManualScreen.su ./Drivers/UI/screens/ui_SettingScreen.cyclo ./Drivers/UI/screens/ui_SettingScreen.d ./Drivers/UI/screens/ui_SettingScreen.o ./Drivers/UI/screens/ui_SettingScreen.su ./Drivers/UI/screens/ui_ViewDataScreen.cyclo ./Drivers/UI/screens/ui_ViewDataScreen.d ./Drivers/UI/screens/ui_ViewDataScreen.o ./Drivers/UI/screens/ui_ViewDataScreen.su
+	-$(RM) ./Drivers/UI/screens/ui_AutoScreen.cyclo ./Drivers/UI/screens/ui_AutoScreen.d ./Drivers/UI/screens/ui_AutoScreen.o ./Drivers/UI/screens/ui_AutoScreen.su ./Drivers/UI/screens/ui_CalibrationScreen.cyclo ./Drivers/UI/screens/ui_CalibrationScreen.d ./Drivers/UI/screens/ui_CalibrationScreen.o ./Drivers/UI/screens/ui_CalibrationScreen.su ./Drivers/UI/screens/ui_InfoScreen.cyclo ./Drivers/UI/screens/ui_InfoScreen.d ./Drivers/UI/screens/ui_InfoScreen.o ./Drivers/UI/screens/ui_InfoScreen.su ./Drivers/UI/screens/ui_MainMenu.cyclo ./Drivers/UI/screens/ui_MainMenu.d ./Drivers/UI/screens/ui_MainMenu.o ./Drivers/UI/screens/ui_MainMenu.su ./Drivers/UI/screens/ui_ManualScreen.cyclo ./Drivers/UI/screens/ui_ManualScreen.d ./Drivers/UI/screens/ui_ManualScreen.o ./Drivers/UI/screens/ui_ManualScreen.su ./Drivers/UI/screens/ui_SettingScreen.cyclo ./Drivers/UI/screens/ui_SettingScreen.d ./Drivers/UI/screens/ui_SettingScreen.o ./Drivers/UI/screens/ui_SettingScreen.su ./Drivers/UI/screens/ui_ViewDataScreen.cyclo ./Drivers/UI/screens/ui_ViewDataScreen.d ./Drivers/UI/screens/ui_ViewDataScreen.o ./Drivers/UI/screens/ui_ViewDataScreen.su
 
 .PHONY: clean-Drivers-2f-UI-2f-screens
 

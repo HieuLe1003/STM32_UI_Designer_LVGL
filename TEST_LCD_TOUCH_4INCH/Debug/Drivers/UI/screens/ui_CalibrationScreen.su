@@ -1,0 +1,5 @@
+../Drivers/UI/screens/ui_CalibrationScreen.c:20:6:ui_event_HomeButton7	32	static
+../Drivers/UI/screens/ui_CalibrationScreen.c:29:6:ui_event_startstopButton2	24	static
+../Drivers/UI/screens/ui_CalibrationScreen.c:41:6:ui_event_ViewDataButton3	32	static
+../Drivers/UI/screens/ui_CalibrationScreen.c:52:6:ui_CalibrationScreen_screen_init	88	static
+../Drivers/UI/screens/ui_CalibrationScreen.c:191:6:ui_CalibrationScreen_screen_destroy	8	static

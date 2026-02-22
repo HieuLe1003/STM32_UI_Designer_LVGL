@@ -446,7 +446,8 @@ Drivers/UI/screens/ui_ManualScreen.o: \
  ../Drivers/UI/screens/../screens/ui_SettingScreen.h \
  ../Drivers/UI/screens/../screens/ui_InfoScreen.h \
  ../Drivers/UI/screens/../screens/ui_AutoScreen.h \
- ../Drivers/UI/screens/../screens/ui_ViewDataScreen.h
+ ../Drivers/UI/screens/../screens/ui_ViewDataScreen.h \
+ ../Drivers/UI/screens/../screens/ui_CalibrationScreen.h
 ../Drivers/UI/screens/../ui.h:
 F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lvgl/lvgl.h:
 F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lvgl/lv_version.h:
@@ -896,3 +897,4 @@ F:/Git_Clone/STM32_UI_Designer_LVGL/TEST_LCD_TOUCH_4INCH/Drivers/lvgl/src/lv_api
 ../Drivers/UI/screens/../screens/ui_InfoScreen.h:
 ../Drivers/UI/screens/../screens/ui_AutoScreen.h:
 ../Drivers/UI/screens/../screens/ui_ViewDataScreen.h:
+../Drivers/UI/screens/../screens/ui_CalibrationScreen.h:

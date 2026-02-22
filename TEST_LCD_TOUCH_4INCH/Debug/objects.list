@@ -56,6 +56,7 @@
 "./Drivers/UI/images/ui_img_settings_50dp_e3e3e3_fill0_wght400_grad0_opsz48_png.o"
 "./Drivers/UI/images/ui_img_undo_50dp_e3e3e3_fill0_wght400_grad0_opsz48_png.o"
 "./Drivers/UI/screens/ui_AutoScreen.o"
+"./Drivers/UI/screens/ui_CalibrationScreen.o"
 "./Drivers/UI/screens/ui_InfoScreen.o"
 "./Drivers/UI/screens/ui_MainMenu.o"
 "./Drivers/UI/screens/ui_ManualScreen.o"

@@ -10,9 +10,6 @@ extern int32_t Angle;
 extern int current_angle;
 extern bool is_Auto_Running;
 extern void Write_Led_PE3(int state);
-extern bool auto_mode_1;
-extern bool auto_mode_2;
-extern bool auto_mode_3;
 extern bool start_auto;
 extern int counter_mode1;
 extern int counter_mode2;
@@ -44,45 +41,6 @@ void OnOffLED(lv_event_t * e)
         Write_Led_PE3(1); // Gửi lệnh BẬT
     } else {
         Write_Led_PE3(0); // Gửi lệnh TẮT
-    }
-}
-
-void Mode1_ON(lv_event_t * e)
-{
-    lv_obj_t * btn = lv_event_get_target(e);
-    bool is_checked = lv_obj_has_state(btn, LV_STATE_CHECKED);
-    if (is_checked) {
-        auto_mode_1 = true;
-        auto_mode_2 = false;
-        auto_mode_3 = false;
-    } else {
-        auto_mode_1 = false;
-    }
-}
-
-void Mode2_ON(lv_event_t * e)
-{
-	lv_obj_t * btn = lv_event_get_target(e);
-    bool is_checked = lv_obj_has_state(btn, LV_STATE_CHECKED);
-    if (is_checked) {
-        auto_mode_2 = true;
-        auto_mode_1 = false;
-        auto_mode_3 = false;
-    } else {
-        auto_mode_2 = false;
-    }
-}
-
-void Mode3_ON(lv_event_t * e)
-{
-	lv_obj_t * btn = lv_event_get_target(e);
-    bool is_checked = lv_obj_has_state(btn, LV_STATE_CHECKED);
-    if (is_checked) {
-        auto_mode_3 = true;
-        auto_mode_1 = false;
-        auto_mode_2 = false;
-    } else {
-        auto_mode_3 = false;
     }
 }
 

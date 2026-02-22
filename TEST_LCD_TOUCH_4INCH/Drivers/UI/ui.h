@@ -24,6 +24,7 @@ extern "C" {
 #include "screens/ui_InfoScreen.h"
 #include "screens/ui_AutoScreen.h"
 #include "screens/ui_ViewDataScreen.h"
+#include "screens/ui_CalibrationScreen.h"
 
 ///////////////////// VARIABLES ////////////////////
 
@@ -35,34 +36,32 @@ extern lv_obj_t * ui____initial_actions0;
 // IMAGES AND IMAGE SETS
 LV_IMG_DECLARE(ui_img_1340268884);    // assets/Screenshot 2026-01-03 222953.png
 LV_IMG_DECLARE(
-    ui_img_settings_50dp_e3e3e3_fill0_wght400_grad0_opsz48_png);    // assets/settings_50dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png
-LV_IMG_DECLARE(
-    ui_img_dashboard_customize_50dp_e3e3e3_fill0_wght400_grad0_opsz48_png);    // assets/dashboard_customize_50dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png
+    ui_img_play_circle_50dp_e3e3e3_fill0_wght400_grad0_opsz48_png);    // assets/play_circle_50dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png
 LV_IMG_DECLARE(
     ui_img_back_hand_50dp_e3e3e3_fill0_wght400_grad0_opsz48_png);    // assets/back_hand_50dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png
 LV_IMG_DECLARE(
     ui_img_center_focus_strong_50dp_e3e3e3_fill0_wght400_grad0_opsz48_png);    // assets/center_focus_strong_50dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png
 LV_IMG_DECLARE(
+    ui_img_multimodal_hand_eye_50dp_e3e3e3_fill0_wght400_grad0_opsz48_png);    // assets/multimodal_hand_eye_50dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png
+LV_IMG_DECLARE(
     ui_img_data_table_50dp_e3e3e3_fill0_wght400_grad0_opsz48_png);    // assets/data_table_50dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png
 LV_IMG_DECLARE(
-    ui_img_play_circle_50dp_e3e3e3_fill0_wght400_grad0_opsz48_png);    // assets/play_circle_50dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png
-LV_IMG_DECLARE(
-    ui_img_multimodal_hand_eye_50dp_e3e3e3_fill0_wght400_grad0_opsz48_png);    // assets/multimodal_hand_eye_50dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png
+    ui_img_dashboard_customize_50dp_e3e3e3_fill0_wght400_grad0_opsz48_png);    // assets/dashboard_customize_50dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png
 LV_IMG_DECLARE(
     ui_img_location_on_50dp_e3e3e3_fill0_wght400_grad0_opsz48_png);    // assets/location_on_50dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png
 LV_IMG_DECLARE(
-    ui_img_home_50dp_e3e3e3_fill0_wght400_grad0_opsz48_png);    // assets/home_50dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png
+    ui_img_settings_50dp_e3e3e3_fill0_wght400_grad0_opsz48_png);    // assets/settings_50dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png
 LV_IMG_DECLARE(
-    ui_img_help_50dp_e3e3e3_fill0_wght400_grad0_opsz48_png);    // assets/help_50dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png
+    ui_img_home_50dp_e3e3e3_fill0_wght400_grad0_opsz48_png);    // assets/home_50dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png
 LV_IMG_DECLARE(
     ui_img_security_50dp_e3e3e3_fill0_wght400_grad0_opsz48_png);    // assets/security_50dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png
 LV_IMG_DECLARE(
     ui_img_license_50dp_e3e3e3_fill0_wght400_grad0_opsz48_png);    // assets/license_50dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png
 LV_IMG_DECLARE(
     ui_img_info_50dp_e3e3e3_fill0_wght400_grad0_opsz48_png);    // assets/info_50dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png
+LV_IMG_DECLARE(ui_img_1617842459);    // assets/Logo_Đại_học_Bách_Khoa_Hà_Nội.svg.png
 LV_IMG_DECLARE(
     ui_img_undo_50dp_e3e3e3_fill0_wght400_grad0_opsz48_png);    // assets/undo_50dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png
-LV_IMG_DECLARE(ui_img_1617842459);    // assets/Logo_Đại_học_Bách_Khoa_Hà_Nội.svg.png
 
 // UI INIT
 void ui_init(void);

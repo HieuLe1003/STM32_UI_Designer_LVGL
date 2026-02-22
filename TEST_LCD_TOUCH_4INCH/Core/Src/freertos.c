@@ -26,6 +26,8 @@
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 #include <stdbool.h>
+#include <stdlib.h>
+#include <time.h>
 #include "lvgl.h"
 // UI labels để update counter hiển thị
 extern lv_obj_t * ui_NumSP1;
@@ -34,7 +36,9 @@ extern lv_obj_t * ui_NumSP3;/* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
 /* USER CODE BEGIN PTD */
-
+int rnd(int a, int b) {
+    return rand() % (b - a + 1) + a;
+}
 /* USER CODE END PTD */
 
 /* Private define ------------------------------------------------------------*/
@@ -54,9 +58,6 @@ extern void Auto_Mode_1();
 extern void Auto_Mode_2();
 extern void Auto_Mode_3();
 
-bool auto_mode_1 = false;
-bool auto_mode_2 = false;
-bool auto_mode_3 = false;
 bool start_auto = false;
 int32_t Angle;
 
@@ -209,7 +210,7 @@ void RobotControlTask(void *argument)
   for(;;)
   {
     // Cập nhật trạng thái chạy
-    if((auto_mode_1 || auto_mode_2 || auto_mode_3) && start_auto)
+    if(start_auto)
       is_Auto_Running = true;
     else
       is_Auto_Running = false;
@@ -217,7 +218,8 @@ void RobotControlTask(void *argument)
     // --- LOGIC ĐẾM CHU KỲ ---
     if(is_Auto_Running)
     {
-       if(auto_mode_1)
+      int product = rnd(1, 3);
+       if(product == 1) // nếu là sản phẩm 1 thì chạy mode 1, tương tự cho 2 và 3
        {
           // 1. Robot thực hiện hành động (Hàm này có osDelay bên trong nên sẽ tốn thời gian)
           Auto_Mode_1(); 
@@ -225,18 +227,18 @@ void RobotControlTask(void *argument)
           // 2. Chạy xong hàm trên nghĩa là xong 1 chu kỳ -> Cộng luôn!
           counter_mode1++; 
        }
-       else if(auto_mode_2)
+       else if(product == 2)
        {
           Auto_Mode_2();
           counter_mode2++;
        }
-       else if(auto_mode_3)
+       else if(product == 3)
        {
           Auto_Mode_3();
           counter_mode3++;
        }
        
-       // Thêm 1 chút delay nhỏ giữa các chu kỳ nếu cần (để robot thở)
+       // Thêm 1 chút delay nhỏ giữa các chu kỳ nếu cần
        osDelay(100); 
     }
     else

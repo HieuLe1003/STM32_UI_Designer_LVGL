@@ -11,9 +11,6 @@ extern "C" {
 #endif
 
 void ControlJoint1Servo(lv_event_t * e);
-void Mode1_ON(lv_event_t * e);
-void Mode2_ON(lv_event_t * e);
-void Mode3_ON(lv_event_t * e);
 void OnOffLED(lv_event_t * e);
 void ResetCount(lv_event_t * e);
 
